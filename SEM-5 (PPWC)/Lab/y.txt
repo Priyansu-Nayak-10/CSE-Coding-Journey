@@ -1,0 +1,1 @@
+the value read from file is 1234
